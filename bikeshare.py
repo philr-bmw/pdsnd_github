@@ -1,7 +1,6 @@
 import time
 import pandas as pd
 import numpy as np
-#import calendar as cal
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
@@ -71,7 +70,7 @@ def load_data(city, month, day):
 
     # extract month and day of week from Start Time to create new columns
     df['month'] = df['Start Time'].dt.month
-    df['day_of_week'] = df['Start Time'].dt.day_name()  #Function "dt.weekday_name" had to be used in Anaconda ...
+    df['day_of_week'] = df['Start Time'].dt.day_name() 
     # extract the hours for additional investigation
     df['hour'] = df['Start Time'].dt.hour
 
