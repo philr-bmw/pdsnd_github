@@ -30,6 +30,7 @@ __Raw Data on three major cities__ _(Data Wrangling applied prior to import)_
 - https://www.divvybikes.com/system-data
 - https://www.citibikenyc.com/system-data
 - https://www.capitalbikeshare.com/system-data
+- https://en.wikipedia.org/wiki/Data_wrangling (DataWrangling Info)
 
 ### Credits
 - https://www.udacity.com/
