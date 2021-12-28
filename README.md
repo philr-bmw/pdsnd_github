@@ -1,4 +1,4 @@
-### Last Update: 28.12.2021
+### Last Update: 28.12.2021 - 11:30
 
 ## US Bikeshare Data Explorer
 
@@ -26,7 +26,7 @@ The Chicago and New York City files also have the following two columns:
 ### Files used
 - bikeshare.py
 
-_Raw Data on three major cities_
+__Raw Data on three major cities__ _(Data Wrangling applied prior to import)_
 - https://www.divvybikes.com/system-data
 - https://www.citibikenyc.com/system-data
 - https://www.capitalbikeshare.com/system-data
