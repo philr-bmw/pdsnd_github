@@ -33,4 +33,5 @@ Raw Data on three major cities
 ### Credits
 - https://www.udacity.com/
 - https://www.motivateco.com/
+- https://divvybikes.com/
 
